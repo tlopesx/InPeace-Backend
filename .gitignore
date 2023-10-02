@@ -1,0 +1,9 @@
+database/
+*.csv
+*.geojson
+env-private.txt
+_certs/*
+_util/*
+*.pyc
+*.idea
+*/Archive/*
